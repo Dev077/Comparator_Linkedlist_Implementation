@@ -1,4 +1,4 @@
-package L4Q1;
+package DoublyLinkedList_Implementation;
 
 public class Driver_DoublyLinkedList { //Driver class
 

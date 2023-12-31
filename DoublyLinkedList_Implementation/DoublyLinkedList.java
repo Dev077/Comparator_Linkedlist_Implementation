@@ -1,4 +1,4 @@
-package L4Q1;
+package DoublyLinkedList_Implementation;
 
 import java.util.ArrayList;
 public class DoublyLinkedList<E> {

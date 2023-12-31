@@ -1,4 +1,4 @@
-package L4Q2;
+package Comparator_Implementation;
 
 public class Student implements Comparable<Student>{
 
